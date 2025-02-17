@@ -46,10 +46,7 @@ Para rodar o projeto em seu computador, siga os seguintes passos:
 
 ## Funcionalidades
 
-- **Cálculo do IMC:** O IMC é calculado com a fórmula:
-  \[
-  IMC = \frac{peso}{altura^2}
-  \]
+- **Cálculo do IMC:** O IMC é calculado com a fórmula: IMC = peso/altura^2
 - **Validação de Entrada:** O programa verifica se o peso e a altura são valores positivos e se são números válidos.
 - **Alteração de Tema:** Você pode alternar entre o **Modo Claro** e o **Modo Escuro** clicando no botão de alternância no canto superior direito.
 - **Salvar Dados:** Os dados (Nome, Peso, Altura, IMC) são salvos em um arquivo de texto.
